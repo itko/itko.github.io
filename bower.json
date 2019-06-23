@@ -1,0 +1,16 @@
+{
+  "name": "jekyll-gallery",
+  "version": "0.0.0",
+  "description": "An Example Jekyll Photo Gallery",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "lightgallery": "^1.2.14",
+    "picturefill": "^3.0.2",
+    "isotope": "^3.0.3",
+    "imagesloaded": "^4.1.1",
+    "jquery-mousewheel": "^3.1.13"
+  }
+}

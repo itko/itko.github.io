@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "About"
+    url: /
+#  - title: "Posts"
+#    url: /blog/
+#  - title: "Projects"
+#    url: /projects/
+#  - title: "CV"
+#    url: /cv/
+  - title: "Photos"
+    url: /photos/
+#  - title: "Sitemap"
+#   url: /sitemap/
+
+# sidebar
+sidebar:
+  - title: "About"
+    url: /about/

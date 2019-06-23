@@ -1,0 +1,105 @@
+picture_path: south-america
+pictures:
+- caption: DSC07855_edit
+  filename: DSC07855_edit
+  original: DSC07855_edit-2000.JPG
+  sizes: [DSC07855_edit-2000.JPG, DSC07855_edit-1200.JPG, DSC07855_edit-900.JPG, DSC07855_edit-500.JPG]
+  thumbnail: DSC07855_edit-thumb.JPG
+  title: DSC07855_edit
+- caption: DSC07904_edit
+  filename: DSC07904_edit
+  original: DSC07904_edit-2000.JPG
+  sizes: [DSC07904_edit-2000.JPG, DSC07904_edit-1200.JPG, DSC07904_edit-900.JPG, DSC07904_edit-500.JPG]
+  thumbnail: DSC07904_edit-thumb.JPG
+  title: DSC07904_edit
+- caption: DSC07928_edit
+  filename: DSC07928_edit
+  original: DSC07928_edit-2000.JPG
+  sizes: [DSC07928_edit-2000.JPG, DSC07928_edit-1200.JPG, DSC07928_edit-900.JPG, DSC07928_edit-500.JPG]
+  thumbnail: DSC07928_edit-thumb.JPG
+  title: DSC07928_edit
+- caption: DSC07932_edit
+  filename: DSC07932_edit
+  original: DSC07932_edit-2000.JPG
+  sizes: [DSC07932_edit-2000.JPG, DSC07932_edit-1200.JPG, DSC07932_edit-900.JPG, DSC07932_edit-500.JPG]
+  thumbnail: DSC07932_edit-thumb.JPG
+  title: DSC07932_edit
+- caption: DSC08027_edit
+  filename: DSC08027_edit
+  original: DSC08027_edit-2000.JPG
+  sizes: [DSC08027_edit-2000.JPG, DSC08027_edit-1200.JPG, DSC08027_edit-900.JPG, DSC08027_edit-500.JPG]
+  thumbnail: DSC08027_edit-thumb.JPG
+  title: DSC08027_edit
+- caption: DSC08032
+  filename: DSC08032
+  original: DSC08032-2000.JPG
+  sizes: [DSC08032-2000.JPG, DSC08032-1200.JPG, DSC08032-900.JPG, DSC08032-500.JPG]
+  thumbnail: DSC08032-thumb.JPG
+  title: DSC08032
+- caption: DSC08055
+  filename: DSC08055
+  original: DSC08055-2000.JPG
+  sizes: [DSC08055-2000.JPG, DSC08055-1200.JPG, DSC08055-900.JPG, DSC08055-500.JPG]
+  thumbnail: DSC08055-thumb.JPG
+  title: DSC08055
+- caption: DSC08102_edit
+  filename: DSC08102_edit
+  original: DSC08102_edit-2000.JPG
+  sizes: [DSC08102_edit-2000.JPG, DSC08102_edit-1200.JPG, DSC08102_edit-900.JPG, DSC08102_edit-500.JPG]
+  thumbnail: DSC08102_edit-thumb.JPG
+  title: DSC08102_edit
+- caption: DSC08129
+  filename: DSC08129
+  original: DSC08129-2000.JPG
+  sizes: [DSC08129-2000.JPG, DSC08129-1200.JPG, DSC08129-900.JPG, DSC08129-500.JPG]
+  thumbnail: DSC08129-thumb.JPG
+  title: DSC08129
+- caption: DSC08142_edit
+  filename: DSC08142_edit
+  original: DSC08142_edit-2000.JPG
+  sizes: [DSC08142_edit-2000.JPG, DSC08142_edit-1200.JPG, DSC08142_edit-900.JPG, DSC08142_edit-500.JPG]
+  thumbnail: DSC08142_edit-thumb.JPG
+  title: DSC08142_edit
+- caption: DSC08162_edit
+  filename: DSC08162_edit
+  original: DSC08162_edit-2000.JPG
+  sizes: [DSC08162_edit-2000.JPG, DSC08162_edit-1200.JPG, DSC08162_edit-900.JPG, DSC08162_edit-500.JPG]
+  thumbnail: DSC08162_edit-thumb.JPG
+  title: DSC08162_edit
+- caption: DSC08217_edit
+  filename: DSC08217_edit
+  original: DSC08217_edit-2000.JPG
+  sizes: [DSC08217_edit-2000.JPG, DSC08217_edit-1200.JPG, DSC08217_edit-900.JPG, DSC08217_edit-500.JPG]
+  thumbnail: DSC08217_edit-thumb.JPG
+  title: DSC08217_edit
+- caption: DSC08384_edit
+  filename: DSC08384_edit
+  original: DSC08384_edit-2000.JPG
+  sizes: [DSC08384_edit-2000.JPG, DSC08384_edit-1200.JPG, DSC08384_edit-900.JPG, DSC08384_edit-500.JPG]
+  thumbnail: DSC08384_edit-thumb.JPG
+  title: DSC08384_edit
+- caption: DSC08412_edit
+  filename: DSC08412_edit
+  original: DSC08412_edit-2000.JPG
+  sizes: [DSC08412_edit-2000.JPG, DSC08412_edit-1200.JPG, DSC08412_edit-900.JPG, DSC08412_edit-500.JPG]
+  thumbnail: DSC08412_edit-thumb.JPG
+  title: DSC08412_edit
+- caption: DSC08571_edit
+  filename: DSC08571_edit
+  original: DSC08571_edit-2000.JPG
+  sizes: [DSC08571_edit-2000.JPG, DSC08571_edit-1200.JPG, DSC08571_edit-900.JPG, DSC08571_edit-500.JPG]
+  thumbnail: DSC08571_edit-thumb.JPG
+  title: DSC08571_edit
+- caption: DSC08671_edit
+  filename: DSC08671_edit
+  original: DSC08671_edit-2000.JPG
+  sizes: [DSC08671_edit-2000.JPG, DSC08671_edit-1200.JPG, DSC08671_edit-900.JPG, DSC08671_edit-500.JPG]
+  thumbnail: DSC08671_edit-thumb.JPG
+  title: DSC08671_edit
+preview:
+  caption: DSC07855_edit
+  filename: DSC07855_edit
+  original: DSC07855_edit-2000.JPG
+  sizes: [DSC07855_edit-2000.JPG, DSC07855_edit-1200.JPG, DSC07855_edit-900.JPG, DSC07855_edit-500.JPG]
+  thumbnail: DSC07855_edit-thumb.JPG
+  title: DSC07855_edit

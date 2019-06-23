@@ -1,0 +1,12 @@
+/.project
+/.jekyll-metadata
+/.pydevproject
+/tokens.yml
+.settings/
+.sass-cache/
+_site/
+gems/
+.bundle/
+__pycache__/
+
+

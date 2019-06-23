@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+    <div class="about" itemscope itemtype="http://schema.org/Person">
+        {% if page.image %}
+        <div class="about__image">
+          {% if page.image contains "://" %}
+            <img src="{{ page.image }}" alt="{{ author.name }}" itemprop="image">
+          {% else %}
+            <img src="{{ page.image | absolute_url }}" class="about__image" alt="{{ author.name }}" itemprop="image">
+          {% endif %}
+        </div>
+        {% endif %}
+        <div class="about__description" itemprop="text">
+            {{ content }}
+        </div>
+        <div class="author__urls-wrapper">
+          <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+          <ul class="author__urls social-icons">
+              {% if author.github %}
+              <li class="about__listitem">
+                <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+                  <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+                </a>
+              </li>
+              {% endif %}
+              {% if author.email %}
+              <li class="about__listitem">
+                <a href="mailto:{{ author.email }}">
+                  <meta itemprop="email" content="{{ author.email }}" />
+                  <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href="{{ site.baseurl }}/{{ "assets/css/about.css" }}" />
+
