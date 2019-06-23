@@ -8,5 +8,4 @@ _site/
 gems/
 .bundle/
 __pycache__/
-
-
+**/.DS_Store
