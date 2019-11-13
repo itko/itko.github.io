@@ -1,9 +1,11 @@
 ---
 permalink: /photos/
+support: jquery
 layout: gallery
 author_profile: false
 
 ---
+
 <div class="photo-gallery">
   <figure class="photo-figure">
     <img src="https://www.dropbox.com/s/bxxoxnxuak16j7a/DSC09875_1000.JPG?raw=1">
@@ -12,13 +14,13 @@ author_profile: false
     <img src="https://www.dropbox.com/s/vupo5wd66lvt565/DSC09772_1000.JPG?raw=1">
   </figure>
   <figure class="photo-figure">
-    <img src="https://www.dropbox.com/s/who1v8v47li1jjl/DSC09387_1000.JPG?raw=1">
+    <img id="img3" src="https://www.dropbox.com/s/who1v8v47li1jjl/DSC09387_1000.JPG?raw=1">
   </figure>
   <figure class="photo-figure">
     <img src="https://www.dropbox.com/s/6xwq4sep5m80eq5/DSC09150_1000.JPG?raw=1">
   </figure>
   <figure class="photo-figure">
-    <img src="https://www.dropbox.com/s/8puwpfr8oc3ol16/DSC00343_1000.JPG?raw=1">
+    <img id = "img5" src="https://www.dropbox.com/s/8puwpfr8oc3ol16/DSC00343_1000.JPG?raw=1">
   </figure>
   <figure class="photo-figure">
     <img src="https://www.dropbox.com/s/njomzu5vclxfrs1/DSC00324_1000.JPG?raw=1">
@@ -84,3 +86,31 @@ author_profile: false
     <img src="https://www.dropbox.com/s/y706cngvj83jfju/dsc00462_1000.jpg?raw=1">
   </figure>
 </div>
+
+<script>
+  window.onload = function() {
+    $.getScript("{{site.baseurl}}/assets/js/screentime.js", function() {
+      console.log($('#img3').height());
+      console.log($('#img3').offset().top);
+      console.log($('#img3').width());
+      console.log($('#img5').height());
+      console.log($('#img5').offset().top);
+      console.log($('#img5').width());
+      $.screentime({
+        fields: [
+          { selector: '#img3',
+            name: 'Img3'
+          },
+          { selector: '#img5',
+            name: 'Img5'
+          }
+        ],
+        googleAnalytics: true,
+        callback: function(data) {
+          console.log(data);       
+        }
+      });
+    });
+  };
+
+</script>
