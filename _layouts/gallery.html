@@ -2,11 +2,38 @@
 layout: default
 ---
 
+<script src="{{site.baseurl}}/assets/js/lazysizes.min.js" async=""></script>
+
 <div id="main" role="main">
     <div class="galleries">
         {{ content }}
     </div>
 </div>
+
+<script>
+    $.getScript("{{site.baseurl}}/assets/js/screentime.js", function() {
+      console.log($('#img3').height());
+      console.log($('#img3').offset().top);
+      console.log($('#img3').width());
+      console.log($('#img5').height());
+      console.log($('#img5').offset().top);
+      console.log($('#img5').width());
+      $.screentime({
+        fields: [
+          { selector: '#img3',
+            name: 'Img3'
+          },
+          { selector: '#img5',
+            name: 'Img5'
+          }
+        ],
+        googleAnalytics: true,
+        callback: function(data) {
+          console.log(data);       
+        }
+      });
+    });
+</script>
 
 <link rel="stylesheet" href="{{ site.baseurl }}/{{ "assets/css/gallery.css" }}" />
 

@@ -1,7 +1,6 @@
 /.project
 /.jekyll-metadata
 /.pydevproject
-/tokens.yml
 .settings/
 .sass-cache/
 _site/
@@ -9,3 +8,4 @@ gems/
 .bundle/
 __pycache__/
 **/.DS_Store
+scripts/tokens.yml
