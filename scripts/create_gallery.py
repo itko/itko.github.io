@@ -14,11 +14,11 @@ db = dropbox.Dropbox(accessToken)
 gallery = div(cls='photo-gallery')
 
 with gallery:
-    for entry in db.files_list_folder('').entries:
+    for i,entry in enumerate(db.files_list_folder('').entries):
         link = db.sharing_create_shared_link(entry.path_lower)
         src = link.url.split('?')[0]
         src += '?raw=1'
-        figure(cls='photo-figure').add(img(data_src=src, cls='lazyload'))
+        figure(cls='photo-figure').add(img(id='img'+str(i),data_src=src, cls='lazyload'))
 
 
 with open('../_pages/photos.md', 'w+') as f:
