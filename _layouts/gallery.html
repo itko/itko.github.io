@@ -10,6 +10,13 @@ layout: default
     </div>
 </div>
 
+
+ <script>
+	 $(".photo-gallery").html($(".photo-gallery .photo-figure").sort(function(){
+	     return Math.random()-0.5;
+	 }));
+</script>
+
 <!-- <script>
     $.getScript("{{site.baseurl}}/assets/js/screentime.js", function() {
       console.log($('#img3').height());
