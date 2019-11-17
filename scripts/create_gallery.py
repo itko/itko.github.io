@@ -1,24 +1,32 @@
 from dominate import document
 from dominate.tags import *
-import os, yaml
-import dropbox
+import os, yaml, json, requests
 
+with open('./keys.yml') as f:
+    keys = yaml.safe_load(f)
 
-with open('./tokens.yml') as f:
-    tokens = yaml.safe_load(f)
+API_KEY = keys['cloudinary_api']
+SECRET_KEY = keys['cloudinary_secret']
 
-accessToken = tokens['dropbox']
+req = ''
+req += 'https://'
+req += API_KEY
+req += ':'
+req += SECRET_KEY
+req += '@'
+req += 'api.cloudinary.com/v1_1/itko/resources/image/?max_results=50/prefix=photos'
+res = requests.get(req)
 
-db = dropbox.Dropbox(accessToken)
+images = json.loads(res.content)['resources']
 
 gallery = div(cls='photo-gallery')
 
 with gallery:
-    for i,entry in enumerate(db.files_list_folder('').entries):
-        link = db.sharing_create_shared_link(entry.path_lower)
-        src = link.url.split('?')[0]
-        src += '?raw=1'
-        figure(cls='photo-figure').add(img(id='img'+str(i),data_src=src, cls='lazyload'))
+    root = 'https://res.cloudinary.com/itko/image/upload/'
+    for i,im in enumerate(images):
+        data_src = root + im['public_id']
+        src = root + 't_lqip/' + im['public_id']
+        figure(cls='photo-figure').add(img(cls='lazyload',id='img'+str(i),src=src,data_src=data_src))
 
 
 with open('../_pages/photos.md', 'w+') as f:

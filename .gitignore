@@ -8,4 +8,5 @@ gems/
 .bundle/
 __pycache__/
 **/.DS_Store
-scripts/tokens.yml
+scripts/keys.yml
+**/.ipynb_checkpoints
