@@ -14,7 +14,7 @@ req += API_KEY
 req += ':'
 req += SECRET_KEY
 req += '@'
-req += 'api.cloudinary.com/v1_1/itko/resources/image/?max_results=50/prefix=photos'
+req += 'api.cloudinary.com/v1_1/itko/resources/image/upload/?prefix=photos/original&max_results=50'
 res = requests.get(req)
 
 images = json.loads(res.content)['resources']
