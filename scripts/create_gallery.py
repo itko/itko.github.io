@@ -32,6 +32,7 @@ with gallery:
 with open('../_pages/photos.md', 'w+') as f:
     f.write('---')
     f.write('\r\n')
+    f.write('title: Photos\r\n')
     f.write('permalink: /photos/\r\n')
     f.write('layout: gallery\r\n')
     f.write('author_profile: false\r\n')
