@@ -1,85 +1,112 @@
 ---
+title: Photos
 permalink: /photos/
 layout: gallery
 author_profile: false
 ---
 <div class="photo-gallery">
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00551_1000_twyv05" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00551_1000_twyv05">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00025_j0l5np" id="img0" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00025_j0l5np">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00508_1000_hwgylg" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00508_1000_hwgylg">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00044_ffprih" id="img1" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00044_ffprih">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00462_1000_lby5pv" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00462_1000_lby5pv">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00121_pbmndb" id="img2" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00121_pbmndb">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC04516_1000_nzgqhp" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC04516_1000_nzgqhp">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00146_fpzwj1" id="img3" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00146_fpzwj1">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC05079_edit_1000_ulcyro" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC05079_edit_1000_ulcyro">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00148_nfpwzf" id="img4" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00148_nfpwzf">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC05287_1000_ddaznz" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC05287_1000_ddaznz">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00168_heuvsa" id="img5" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00168_heuvsa">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC04859_edit_1000_lifl3i" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC04859_edit_1000_lifl3i">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00189_pmayir" id="img6" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00189_pmayir">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC05189_edit_1000_ii0zlx" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC05189_edit_1000_ii0zlx">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00264_uxlrbx" id="img7" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00264_uxlrbx">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00025_1000_l3iypx" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00025_1000_l3iypx">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00324_ggkxob" id="img8" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00324_ggkxob">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09449_1000_pxfymw" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09449_1000_pxfymw">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00343_dy63mi" id="img9" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00343_dy63mi">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC05327_edit_1000_d0lqlm" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC05327_edit_1000_d0lqlm">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00462_l0d95e" id="img10" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00462_l0d95e">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09160_1000_mqq4sq" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09160_1000_mqq4sq">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00508_np7ui1" id="img11" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00508_np7ui1">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09035_1000_ymoajt" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09035_1000_ymoajt">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC00551_nbyriy" id="img12" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC00551_nbyriy">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00044_1000_zizqjm" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00044_1000_zizqjm">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC04516_hpi42x" id="img13" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC04516_hpi42x">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00148_1000_vqhbss" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00148_1000_vqhbss">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC04859_drouqo" id="img14" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC04859_drouqo">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00146_1000_youbvo" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00146_1000_youbvo">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC05079_kgvdhe" id="img15" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC05079_kgvdhe">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00264_1000_h8aifg" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00264_1000_h8aifg">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC05189_gdvbie" id="img16" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC05189_gdvbie">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00121_1000_lgfzt5" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00121_1000_lgfzt5">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC05287_dfrhwp" id="img17" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC05287_dfrhwp">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00189_1000_pqbnfi" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00189_1000_pqbnfi">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC05327_efqhpl" id="img18" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC05327_efqhpl">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00168_1000_s68jzu" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00168_1000_s68jzu">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09035_lf2f0y" id="img19" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09035_lf2f0y">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00324_1000_gcgixj" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00324_1000_gcgixj">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09150_zpacrz" id="img20" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09150_zpacrz">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09772_1000_ppesru" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09772_1000_ppesru">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09160_m3byfo" id="img21" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09160_m3byfo">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09875_1000_j9qbqg" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09875_1000_j9qbqg">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09387_gaeutb" id="img22" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09387_gaeutb">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09150_1000_u60bw9" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09150_1000_u60bw9">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09449_pxvekt" id="img23" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09449_pxvekt">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC09387_1000_ujz32b" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC09387_1000_ujz32b">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09772_g9xspz" id="img24" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09772_g9xspz">
   </figure>
   <figure class="photo-figure">
-    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/photos/DSC00343_1000_s4rdht" id="img&lt;class 'dominate.tags.i'&gt;" src="https://res.cloudinary.com/itko/image/upload/t_lqip/photos/DSC00343_1000_s4rdht">
+    <img class="lazyload" data-src="https://res.cloudinary.com/itko/image/upload/t_prog2560/photos/original/DSC09875_ubu9zn" id="img25" src="https://res.cloudinary.com/itko/image/upload/t_blur32/photos/original/DSC09875_ubu9zn">
   </figure>
 </div>
+
+<script src="{{site.baseurl}}/assets/js/lazysizes.min.js"></script>
+<script>
+    $.screentime({
+		fields: [
+		  { selector: '#img3',
+		    name: 'Img3'
+		  },
+		  { selector: '#img5',
+		    name: 'Img5'
+		  }
+		],
+		googleAnalytics: true,
+		callback: function(data) {
+		  console.log(data);
+		}
+	});
+
+	data-sizes=&quot;auto&quot;
+    src=&quot;lqip-src.jpg&quot;
+	data-srcset=&quot;lqip-src.jpg 220w,
+    image2.jpg 300w,
+    image3.jpg 600w,
+    image4.jpg 900w&quot; class=&quot;lazyload&quot; /&gt;
+    
+    </script>

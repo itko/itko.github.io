@@ -24,8 +24,8 @@ gallery = div(cls='photo-gallery')
 with gallery:
     root = 'https://res.cloudinary.com/itko/image/upload/'
     for i,im in enumerate(images):
-        data_src = root + im['public_id']
-        src = root + 't_lqip/' + im['public_id']
+        data_src = root + 't_prog2560/' + im['public_id']
+        src = root + 't_blur32/' + im['public_id']
         figure(cls='photo-figure').add(img(cls='lazyload',id='img'+str(i),src=src,data_src=data_src))
 
 
