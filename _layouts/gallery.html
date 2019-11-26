@@ -21,7 +21,7 @@ layout: default
 <!-- <script src="{{site.baseurl}}/assets/js/screentime.js"></script> -->
 <script>
 	$(document).ready(function() {
-	    $.getScript("{{site.baseurl}}/assets/js/screentime.js",function(){
+	    $.getScript("{{site.baseurl}}/assets/js/screentime_itto.js",function(){
 			var fields = []
 			$('img').each(function(){
 				id = $(this).attr('id')
@@ -34,6 +34,7 @@ layout: default
 			});
 			$.screentime({
 				fields: fields,
+				lookInterval: 0.5,
 				googleAnalytics: false,
 				percentOnScreen: '95%',
 				callback: function(data) {
