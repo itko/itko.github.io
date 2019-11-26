@@ -26,7 +26,7 @@ with gallery:
     for i,im in enumerate(images):
         data_src = root + 't_prog2560/' + im['public_id']
         src = root + 't_blur32/' + im['public_id']
-        figure(cls='photo-figure').add(img(cls='lazyload',id='img'+str(i),src=src,data_src=data_src))
+        figure(cls='photo-figure').add(img(cls='lazyload',id=im['public_id'].replace('/','-'),src=src,data_src=data_src))
 
 
 with open('../_pages/photos.md', 'w+') as f:
@@ -38,5 +38,6 @@ with open('../_pages/photos.md', 'w+') as f:
     f.write('author_profile: false\r\n')
     f.write('---')
     f.write('\r\n')
-
+    f.write('\r\n')
     f.write(str(gallery))
+    f.write('\r\n')

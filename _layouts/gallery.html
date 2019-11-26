@@ -11,36 +11,38 @@ layout: default
 </div>
 
 
- <script>
-	 $(".photo-gallery").html($(".photo-gallery .photo-figure").sort(function(){
-	     return Math.random()-0.5;
-	 }));
+<script>
+	$(".photo-gallery").html($(".photo-gallery .photo-figure").sort(function(){
+	 return Math.random()-0.5;
+	}));
 </script>
 
-<!-- <script>
-    $.getScript("{{site.baseurl}}/assets/js/screentime.js", function() {
-      console.log($('#img3').height());
-      console.log($('#img3').offset().top);
-      console.log($('#img3').width());
-      console.log($('#img5').height());
-      console.log($('#img5').offset().top);
-      console.log($('#img5').width());
-      $.screentime({
-        fields: [
-          { selector: '#img3',
-            name: 'Img3'
-          },
-          { selector: '#img5',
-            name: 'Img5'
-          }
-        ],
-        googleAnalytics: true,
-        callback: function(data) {
-          console.log(data);       
-        }
-      });
-    });
-</script> -->
+
+<!-- <script src="{{site.baseurl}}/assets/js/screentime.js"></script> -->
+<script>
+	$(document).ready(function() {
+	    $.getScript("{{site.baseurl}}/assets/js/screentime.js",function(){
+			var fields = []
+			$('img').each(function(){
+				id = $(this).attr('id')
+				fields.push(
+					{
+						'selector': '#'+id.replace( '/', '-' ),
+						'name': id
+					}
+				)
+			});
+			$.screentime({
+				fields: fields,
+				googleAnalytics: false,
+				percentOnScreen: '95%',
+				callback: function(data) {
+				  console.log(data);
+				}
+			})
+		});
+	});
+</script>
 
 <link rel="stylesheet" href="{{ site.baseurl }}/{{ "assets/css/gallery.css" }}" />
 
