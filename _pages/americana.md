@@ -12,12 +12,12 @@ People from different states have different cultures, habits, and interests. For
 We can expand our analysis of search behaviour to many more topics. For example, New Yorkers and New Jersyites are not just similar in their interest in Seinfeld, they are also similar in their interest in League of Legends.  By examining interests in dozens of such topics, we can understand which states are most similar to each other.
 
 <div class='embed-plotly'>
-<iframe frameborder=0 scrolling="no" src="//plotly.com/~itko/19.embed"></iframe>
+	<iframe frameborder="0" scrolling="no" src="https://plotly.com/~itko/19.embed"></iframe>
 </div>
 
 ## Getting Weird
 Along the same lines, we can find the "wierdest" state. This is a loaded word; really, we're just ranking the states based on how different they are from other states.
 
 <div class='embed-plotly'>
-<iframe frameborder=0 scrolling="no" src="//plotly.com/~itko/51.embed"></iframe>
+	<iframe frameborder="0" scrolling="no" src="https://plotly.com/~itko/51.embed"></iframe>
 </div>
