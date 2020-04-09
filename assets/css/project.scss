@@ -40,6 +40,18 @@
 	font-size: 1.2em;
 }
 
+.embed-plotly {
+	pad: 0;
+	margin: 0;
+	width: 100%;
+}
+
+.embed-plotly iframe{
+	margin: 0;
+	width: 500px;
+	height: 500px;
+}
+
 .page__footer {
 	position: relative
 }

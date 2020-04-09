@@ -28,8 +28,10 @@ author_profile: false
 	    src="https://i.cbc.ca/1.4729338.1530308043!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/96735468.jpg">
 	  </figure>
   	  <div class='project-writeup'>
-	  	<p class='project-title'> Americana </p>
-	  	<p class='project-description'> Finding the weirdest state in the US. </p>
+  	  	<a href='./americana'>
+	  		<p class='project-title'> Americana </p>
+	  		<p class='project-description'> Finding the weirdest state in the US. </p>
+  		</a>
 	  </div>
 	</div>
 	<div class='project-listing'>
@@ -40,8 +42,8 @@ author_profile: false
 	    src="https://s27363.pcdn.co/wp-content/uploads/2019/11/Best-Things-to-do-in-Zurich.jpg.optimal.jpg">
 	  </figure>
   	  <div class='project-writeup'>
-	  	<p class='project-title'> WGMap </p>
-	  	<p class='project-description'> Mapping shared housing in Switzerland. </p>
+	  		<p class='project-title'> WGMap </p>
+	  		<p class='project-description'> Mapping shared housing in Switzerland. </p>
 	  </div>
 	</div>  
 </div>

@@ -10,3 +10,4 @@ __pycache__/
 **/.DS_Store
 scripts/keys.yml
 **/.ipynb_checkpoints
+.jekyll-cache
