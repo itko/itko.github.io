@@ -42,8 +42,10 @@ author_profile: false
 	    src="https://s27363.pcdn.co/wp-content/uploads/2019/11/Best-Things-to-do-in-Zurich.jpg.optimal.jpg">
 	  </figure>
   	  <div class='project-writeup'>
+  	  	<a href='./wgmap'>
 	  		<p class='project-title'> WGMap </p>
 	  		<p class='project-description'> Mapping shared housing in Switzerland. </p>
+  		</a>
 	  </div>
 	</div>  
 </div>
