@@ -1,5 +1,5 @@
 ---
-title:  "admin"
+title: Admin
 permalink: /admin/
-support: jquery
+author_profile: false
 ---

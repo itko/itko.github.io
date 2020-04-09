@@ -1,0 +1,46 @@
+---
+---
+
+.project-list {
+}
+
+.project-listing {
+	width: 60%;
+	margin: auto;
+	margin-bottom: 3em;
+}
+
+.project-figure {
+  	margin: 0;
+}
+
+.project-figure img{
+	height: 15vw;
+	object-fit: cover;
+}
+
+.project-writeup a{
+ 	color: inherit;
+	text-decoration: none;
+}
+
+.project-writeup p{
+ 	margin: 0px;
+ 	padding: 0px;
+}
+
+.project-title {
+	font-size: 1.5em;
+	color: inherit;
+	text-decoration: underline;
+}
+
+.project-description {
+	color: #808080;
+	font-size: 1.2em;
+}
+
+.page__footer {
+	position: relative
+}
+
