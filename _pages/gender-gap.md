@@ -11,12 +11,16 @@ Examining gender gaps in the workplace is notoriously difficult, in large part b
 ## Salary Differences
 Do women earn less than men? That's the question that comes to everyone's mind when thinking about gender discrimination. After adjusting for the number of years of experience (and for purchasing power over time), we find that the  difference in salaries between men and women is not meaningful.
 
-![Salary](/assets/images/projects/salary.png)
+<div class='embed-plotly'>
+<iframe frameborder="0" scrolling="no" src="//plotly.com/~itko/65.embed"></iframe>
+</div>
 
 ## Boy's Club
 Pure salary is not the full story. Even if women seemingly earn as much as men, the composition of men and women is not consistent. Namely, the more years of experience a worker has, the more likely they are to be a man. In fact, at 10+ years of experience, women account for less than 20% of workers. This may be due to women taking on domestic duties as mothers and wives.
 
-![Gender proportion](/assets/images/projects/proportion.png)
+<div class='embed-plotly'>
+<iframe frameborder="0" scrolling="no" src="//plotly.com/~itko/75.embed"></iframe>
+</div>
 
 ## Limitations
 This analysis is still in very early phases, and there are still many things to consider and account for.
