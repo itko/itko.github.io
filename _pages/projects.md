@@ -47,6 +47,18 @@ author_profile: false
 		</a>
   </div>
 </div> 
+<div class='project-listing'>
+  <figure class="project-figure">
+    <img
+    class="lazyload"
+    data-src="https://groundviews.org/wp-content/uploads/2012/11/Forest-Patch-1200x550.jpg"
+    src="https://groundviews.org/wp-content/uploads/2012/11/Forest-Patch-1200x550.jpg">
+  </figure>
 	  <div class='project-writeup'>
+	  	<a href='./connectivity'>
+  		<p class='project-title'> Connectivity </p>
+  		<p class='project-description'> A more complete measure of deforestation. </p>
+		</a>
+  </div>
 </div>
 

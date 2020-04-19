@@ -1,11 +1,13 @@
 ---
 ---
 
+
 .project-list {
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
 .project-listing {
-	width: 60%;
 	margin: auto;
 	margin-bottom: 3em;
 }
@@ -59,5 +61,30 @@
 
 .page__footer {
 	position: relative
+}
+
+.connectivity-image {
+	margin: 0;
+	padding: 0;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.connectivity-image img{
+	max-width: 350px;
+	height: auto;
+	margin: 0;
+	padding: 0;
+  	margin-left: auto;
+  	margin-right: auto;
+	display: block;
+
+}
+
+.side-by-side {
+	width: 100%;
+  	margin-left: auto;
+  	margin-right: auto;
+	display: flex;
 }
 
