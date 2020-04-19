@@ -1,7 +1,7 @@
 ---
 title:  Glass Ceiling
 permalink: projects/gender-gap/
-layout: projects
+layout: project
 author_profile: false
 ---
 # Glass Ceiling

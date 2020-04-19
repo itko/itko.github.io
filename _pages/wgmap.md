@@ -1,7 +1,7 @@
 ---
 title: WGmap
 permalink: projects/wgmap/
-layout: projects
+layout: project
 author_profile: false
 ---
 # WGmap

@@ -1,7 +1,7 @@
 ---
 title:  Americana
 permalink: projects/americana/
-layout: projects
+layout: project
 author_profile: false
 ---
 # Americana
