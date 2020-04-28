@@ -1,0 +1,39 @@
+.about {
+  display: block;
+  text-align: center;
+  margin: auto;
+  max-width: 500px;
+}
+
+.about__image {
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 30px;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+}
+
+.about__description {
+  display: inline-block;
+  height: auto;
+  font-family: Montserrat, Helvetica Neue, sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1em;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 30px;
+}
+
+.about__follow {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.about__follow li{
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+ }
