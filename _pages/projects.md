@@ -29,7 +29,7 @@ author_profile: false
 	  <div class='project-writeup'>
 	  	<a href='./americana'>
   		<p class='project-title'> Americana </p>
-  		<p class='project-description'> Finding the weirdest state in the US. </p>
+  		<p class='project-description'> What is weirdest state in the US? A data-based apparoach. </p>
 		</a>
   </div>
 </div>
@@ -37,12 +37,12 @@ author_profile: false
   <figure class="project-figure">
     <img
     class="lazyload"
-    data-src="https://s27363.pcdn.co/wp-content/uploads/2019/11/Best-Things-to-do-in-Zurich.jpg.optimal.jpg"
-    src="https://s27363.pcdn.co/wp-content/uploads/2019/11/Best-Things-to-do-in-Zurich.jpg.optimal.jpg">
+    data-src="https://res.cloudinary.com/itko/image/upload/v1/WGmap/thumbnail_og.png"
+    src="https://res.cloudinary.com/itko/image/upload/v1/WGmap/thumbnail_og.png">
   </figure>
 	  <div class='project-writeup'>
 	  	<a href='./wgmap'>
-  		<p class='project-title'> WGMap </p>
+  		<p class='project-title'> WGmap </p>
   		<p class='project-description'> Mapping shared housing in Switzerland. </p>
 		</a>
   </div>
