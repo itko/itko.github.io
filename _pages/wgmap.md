@@ -4,8 +4,32 @@ permalink: projects/wgmap/
 layout: project
 author_profile: false
 ---
+
 # WGmap
 
-Basically all young people in Zurich (and most of Switzerland) uses the same website to find rooms and apartments. But for some odd reason, the UI/UX is [atrocious](https://www.wgzimmer.ch/en/wgzimmer/search/mate.html). Think of it as Craigslist, only stuffed with ads all over the place.
+When it comes to renting apartments and rooms in Switzerland, [website](https://www.wgzimmer.ch/en/wgzimmer/search/mate.html) rules them all. But this website is badly designed to the point of being unusable.
 
-In an effort to improve the experience, I created a free platform where people can explore all the listings on a simple, clutter-free map. See here for the live version: [wgmap.co](https://wgmap.co/)
+In an effort to improve the experience, I created a free platform where people can explore all the listings on a [simple, clutter-free map](https://wgmap.co/). It's a barebones design, but it has already become one of the largest rental databases in Switzerland.
+
+<div class='side-by-side' >
+<figure class='wgmap-image'>
+    <img
+    class="lazyload"
+    style='margin-right:5px'
+    data-src="/assets/images/projects/wgmap/wgmap.png"
+    src="/assets/images/projects/wgmap/wgmap.png">
+</figure>
+<figure class='wgmap-image'>
+    <img
+    class="lazyload"
+    style='margin-left:10px'
+    data-src="/assets/images/projects/wgmap/wgmap-popup.png"
+    src="/assets/images/projects/wgmap/wgmap-popup.png">
+</figure>
+<figure class='wgmap-image' style='margin-top:0px'>
+    <img
+    class="lazyload"
+    data-src="/assets/images/projects/wgmap/wgmap-slider-wide.png"
+    src="/assets/images/projects/wgmap/wgmap-slider.png">
+</figure>
+</div>
