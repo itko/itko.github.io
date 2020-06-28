@@ -6,7 +6,7 @@ author_profile: false
 ---
 # Connectivity
 
-*How do we get from a satellite image to a weighted network? The following is a summary of the work I did at the Ecosystem Management Group at ETH Zurich. The full publication can be [found here](https://drive.google.com/file/d/0B153rgUR-lZ9ZWptMG9YQTB1LU1YOWFVRGI0RGhsVVBjT2h3/view?usp=sharing).*
+*How do we combine network analysis and geospatial data in order to measure deforestation? The following is a summary of the work I did at the Ecosystem Management Group at ETH Zurich. The full publication can be [found here](https://drive.google.com/file/d/0B153rgUR-lZ9ZWptMG9YQTB1LU1YOWFVRGI0RGhsVVBjT2h3/view?usp=sharing).*
 
 <div class='side-by-side'>
 <figure class="connectivity-image">

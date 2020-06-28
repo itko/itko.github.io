@@ -5,6 +5,35 @@ layout: projects
 author_profile: false
 ---
 
+
+<div class='project-listing'>
+  <figure class="project-figure">
+    <img
+    class="lazyload"
+    data-src="https://groundviews.org/wp-content/uploads/2012/11/Forest-Patch-1200x550.jpg"
+    src="https://groundviews.org/wp-content/uploads/2012/11/Forest-Patch-1200x550.jpg">
+  </figure>
+	  <div class='project-writeup'>
+	  	<a href='./connectivity'>
+  		<p class='project-title'> Connectivity </p>
+  		<p class='project-description'>  Geospatial data and network theory to measure deforestation. </p>
+		</a>
+  </div>
+</div>
+<div class='project-listing'>
+  <figure class="project-figure">
+    <img
+    class="lazyload"
+    data-src="https://res.cloudinary.com/itko/image/upload/v1/WGmap/thumbnail_og.png"
+    src="https://res.cloudinary.com/itko/image/upload/v1/WGmap/thumbnail_og.png">
+  </figure>
+	  <div class='project-writeup'>
+	  	<a href='./wgmap'>
+  		<p class='project-title'> WGmap </p>
+  		<p class='project-description'> Mapping shared housing in Switzerland. </p>
+		</a>
+  </div>
+</div> 
 <div class='project-listing'>
   <figure class="project-figure">
     <img
@@ -30,34 +59,6 @@ author_profile: false
 	  	<a href='./americana'>
   		<p class='project-title'> Americana </p>
   		<p class='project-description'> What is weirdest state in the US? A data-based apparoach. </p>
-		</a>
-  </div>
-</div>
-<div class='project-listing'>
-  <figure class="project-figure">
-    <img
-    class="lazyload"
-    data-src="https://res.cloudinary.com/itko/image/upload/v1/WGmap/thumbnail_og.png"
-    src="https://res.cloudinary.com/itko/image/upload/v1/WGmap/thumbnail_og.png">
-  </figure>
-	  <div class='project-writeup'>
-	  	<a href='./wgmap'>
-  		<p class='project-title'> WGmap </p>
-  		<p class='project-description'> Mapping shared housing in Switzerland. </p>
-		</a>
-  </div>
-</div> 
-<div class='project-listing'>
-  <figure class="project-figure">
-    <img
-    class="lazyload"
-    data-src="https://groundviews.org/wp-content/uploads/2012/11/Forest-Patch-1200x550.jpg"
-    src="https://groundviews.org/wp-content/uploads/2012/11/Forest-Patch-1200x550.jpg">
-  </figure>
-	  <div class='project-writeup'>
-	  	<a href='./connectivity'>
-  		<p class='project-title'> Connectivity </p>
-  		<p class='project-description'> A more complete measure of deforestation. </p>
 		</a>
   </div>
 </div>
